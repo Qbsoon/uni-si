@@ -105,3 +105,7 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
+
+runExample("03_reactivity", display.mode = "showcase")
+
+system.file("examples", package="shiny")
