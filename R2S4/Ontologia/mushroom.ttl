@@ -1,0 +1,993 @@
+@prefix ns1: <http://example.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:row0 ns1:cap-diameter "1372.0"^^xsd:int ;
+    ns1:cap-shape "2.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "1.804"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.807"^^xsd:float ;
+    ns1:stem-width "1545.0"^^xsd:int .
+
+ns1:row1 ns1:cap-diameter "1461.0"^^xsd:int ;
+    ns1:cap-shape "2.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "1.804"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.807"^^xsd:float ;
+    ns1:stem-width "1557.0"^^xsd:int .
+
+ns1:row10 ns1:cap-diameter "1214.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "1.804"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.696"^^xsd:float ;
+    ns1:stem-width "1524.0"^^xsd:int .
+
+ns1:row11 ns1:cap-diameter "642.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.286"^^xsd:float ;
+    ns1:stem-width "1311.0"^^xsd:int .
+
+ns1:row12 ns1:cap-diameter "814.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.189"^^xsd:float ;
+    ns1:stem-width "1681.0"^^xsd:int .
+
+ns1:row13 ns1:cap-diameter "550.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.549"^^xsd:float ;
+    ns1:stem-width "1220.0"^^xsd:int .
+
+ns1:row14 ns1:cap-diameter "606.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.254"^^xsd:float ;
+    ns1:stem-width "1239.0"^^xsd:int .
+
+ns1:row15 ns1:cap-diameter "721.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.951"^^xsd:float ;
+    ns1:stem-width "1445.0"^^xsd:int .
+
+ns1:row16 ns1:cap-diameter "595.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.604"^^xsd:float ;
+    ns1:stem-width "1415.0"^^xsd:int .
+
+ns1:row17 ns1:cap-diameter "661.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.437"^^xsd:float ;
+    ns1:stem-width "1150.0"^^xsd:int .
+
+ns1:row18 ns1:cap-diameter "587.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.596"^^xsd:float ;
+    ns1:stem-width "1531.0"^^xsd:int .
+
+ns1:row19 ns1:cap-diameter "835.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.907"^^xsd:float ;
+    ns1:stem-width "1603.0"^^xsd:int .
+
+ns1:row2 ns1:cap-diameter "1371.0"^^xsd:int ;
+    ns1:cap-shape "2.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "1.804"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.612"^^xsd:float ;
+    ns1:stem-width "1566.0"^^xsd:int .
+
+ns1:row20 ns1:cap-diameter "705.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.083"^^xsd:float ;
+    ns1:stem-width "1122.0"^^xsd:int .
+
+ns1:row21 ns1:cap-diameter "599.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.577"^^xsd:float ;
+    ns1:stem-width "1306.0"^^xsd:int .
+
+ns1:row22 ns1:cap-diameter "619.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.39"^^xsd:float ;
+    ns1:stem-width "1195.0"^^xsd:int .
+
+ns1:row23 ns1:cap-diameter "648.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.728"^^xsd:float ;
+    ns1:stem-width "1370.0"^^xsd:int .
+
+ns1:row24 ns1:cap-diameter "778.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.811"^^xsd:float ;
+    ns1:stem-width "1514.0"^^xsd:int .
+
+ns1:row25 ns1:cap-diameter "692.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.652"^^xsd:float ;
+    ns1:stem-width "1307.0"^^xsd:int .
+
+ns1:row26 ns1:cap-diameter "804.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.871"^^xsd:float ;
+    ns1:stem-width "1517.0"^^xsd:int .
+
+ns1:row27 ns1:cap-diameter "660.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.982"^^xsd:float ;
+    ns1:stem-width "1626.0"^^xsd:int .
+
+ns1:row28 ns1:cap-diameter "547.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.521"^^xsd:float ;
+    ns1:stem-width "1191.0"^^xsd:int .
+
+ns1:row29 ns1:cap-diameter "846.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.173"^^xsd:float ;
+    ns1:stem-width "1613.0"^^xsd:int .
+
+ns1:row3 ns1:cap-diameter "1261.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "1.804"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.788"^^xsd:float ;
+    ns1:stem-width "1566.0"^^xsd:int .
+
+ns1:row30 ns1:cap-diameter "826.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.05"^^xsd:float ;
+    ns1:stem-width "1593.0"^^xsd:int .
+
+ns1:row31 ns1:cap-diameter "834.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.014"^^xsd:float ;
+    ns1:stem-width "1591.0"^^xsd:int .
+
+ns1:row32 ns1:cap-diameter "664.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.72"^^xsd:float ;
+    ns1:stem-width "1140.0"^^xsd:int .
+
+ns1:row33 ns1:cap-diameter "763.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.819"^^xsd:float ;
+    ns1:stem-width "1614.0"^^xsd:int .
+
+ns1:row34 ns1:cap-diameter "718.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.72"^^xsd:float ;
+    ns1:stem-width "1291.0"^^xsd:int .
+
+ns1:row35 ns1:cap-diameter "594.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.744"^^xsd:float ;
+    ns1:stem-width "1333.0"^^xsd:int .
+
+ns1:row36 ns1:cap-diameter "641.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.748"^^xsd:float ;
+    ns1:stem-width "1577.0"^^xsd:int .
+
+ns1:row37 ns1:cap-diameter "840.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.962"^^xsd:float ;
+    ns1:stem-width "1465.0"^^xsd:int .
+
+ns1:row38 ns1:cap-diameter "728.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.165"^^xsd:float ;
+    ns1:stem-width "1577.0"^^xsd:int .
+
+ns1:row39 ns1:cap-diameter "539.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.787"^^xsd:float ;
+    ns1:stem-width "1394.0"^^xsd:int .
+
+ns1:row4 ns1:cap-diameter "1305.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.712"^^xsd:float ;
+    ns1:stem-width "1464.0"^^xsd:int .
+
+ns1:row40 ns1:cap-diameter "605.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.915"^^xsd:float ;
+    ns1:stem-width "1561.0"^^xsd:int .
+
+ns1:row41 ns1:cap-diameter "613.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.66"^^xsd:float ;
+    ns1:stem-width "1352.0"^^xsd:int .
+
+ns1:row42 ns1:cap-diameter "675.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.608"^^xsd:float ;
+    ns1:stem-width "1499.0"^^xsd:int .
+
+ns1:row43 ns1:cap-diameter "510.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.409"^^xsd:float ;
+    ns1:stem-width "1172.0"^^xsd:int .
+
+ns1:row44 ns1:cap-diameter "618.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.712"^^xsd:float ;
+    ns1:stem-width "1510.0"^^xsd:int .
+
+ns1:row45 ns1:cap-diameter "638.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.652"^^xsd:float ;
+    ns1:stem-width "1635.0"^^xsd:int .
+
+ns1:row46 ns1:cap-diameter "585.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.676"^^xsd:float ;
+    ns1:stem-width "1332.0"^^xsd:int .
+
+ns1:row47 ns1:cap-diameter "837.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.668"^^xsd:float ;
+    ns1:stem-width "1323.0"^^xsd:int .
+
+ns1:row48 ns1:cap-diameter "688.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.847"^^xsd:float ;
+    ns1:stem-width "1421.0"^^xsd:int .
+
+ns1:row49 ns1:cap-diameter "805.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.21"^^xsd:float ;
+    ns1:stem-width "1330.0"^^xsd:int .
+
+ns1:row5 ns1:cap-diameter "1337.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.776"^^xsd:float ;
+    ns1:stem-width "1520.0"^^xsd:int .
+
+ns1:row50 ns1:cap-diameter "762.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.724"^^xsd:float ;
+    ns1:stem-width "1484.0"^^xsd:int .
+
+ns1:row51 ns1:cap-diameter "640.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.664"^^xsd:float ;
+    ns1:stem-width "1250.0"^^xsd:int .
+
+ns1:row52 ns1:cap-diameter "699.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.962"^^xsd:float ;
+    ns1:stem-width "1506.0"^^xsd:int .
+
+ns1:row53 ns1:cap-diameter "674.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.429"^^xsd:float ;
+    ns1:stem-width "1667.0"^^xsd:int .
+
+ns1:row54 ns1:cap-diameter "662.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.058"^^xsd:float ;
+    ns1:stem-width "1755.0"^^xsd:int .
+
+ns1:row55 ns1:cap-diameter "736.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.779"^^xsd:float ;
+    ns1:stem-width "1404.0"^^xsd:int .
+
+ns1:row56 ns1:cap-diameter "563.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.616"^^xsd:float ;
+    ns1:stem-width "1419.0"^^xsd:int .
+
+ns1:row57 ns1:cap-diameter "756.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.054"^^xsd:float ;
+    ns1:stem-width "1392.0"^^xsd:int .
+
+ns1:row58 ns1:cap-diameter "705.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.082"^^xsd:float ;
+    ns1:stem-width "1534.0"^^xsd:int .
+
+ns1:row59 ns1:cap-diameter "802.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.249"^^xsd:float ;
+    ns1:stem-width "1578.0"^^xsd:int .
+
+ns1:row6 ns1:cap-diameter "1300.0"^^xsd:int ;
+    ns1:cap-shape "2.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "1.804"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.835"^^xsd:float ;
+    ns1:stem-width "1563.0"^^xsd:int .
+
+ns1:row60 ns1:cap-diameter "591.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.06"^^xsd:float ;
+    ns1:stem-width "1166.0"^^xsd:int .
+
+ns1:row61 ns1:cap-diameter "708.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.851"^^xsd:float ;
+    ns1:stem-width "1533.0"^^xsd:int .
+
+ns1:row62 ns1:cap-diameter "717.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.807"^^xsd:float ;
+    ns1:stem-width "1499.0"^^xsd:int .
+
+ns1:row63 ns1:cap-diameter "573.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.724"^^xsd:float ;
+    ns1:stem-width "1375.0"^^xsd:int .
+
+ns1:row64 ns1:cap-diameter "622.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.169"^^xsd:float ;
+    ns1:stem-width "1482.0"^^xsd:int .
+
+ns1:row65 ns1:cap-diameter "516.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.425"^^xsd:float ;
+    ns1:stem-width "995.0"^^xsd:int .
+
+ns1:row66 ns1:cap-diameter "763.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.68"^^xsd:float ;
+    ns1:stem-width "1396.0"^^xsd:int .
+
+ns1:row67 ns1:cap-diameter "592.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.99"^^xsd:float ;
+    ns1:stem-width "1615.0"^^xsd:int .
+
+ns1:row68 ns1:cap-diameter "580.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.33"^^xsd:float ;
+    ns1:stem-width "1368.0"^^xsd:int .
+
+ns1:row69 ns1:cap-diameter "635.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.429"^^xsd:float ;
+    ns1:stem-width "1241.0"^^xsd:int .
+
+ns1:row7 ns1:cap-diameter "1354.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.676"^^xsd:float ;
+    ns1:stem-width "1532.0"^^xsd:int .
+
+ns1:row70 ns1:cap-diameter "626.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.37"^^xsd:float ;
+    ns1:stem-width "1443.0"^^xsd:int .
+
+ns1:row71 ns1:cap-diameter "793.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.795"^^xsd:float ;
+    ns1:stem-width "1485.0"^^xsd:int .
+
+ns1:row72 ns1:cap-diameter "607.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.449"^^xsd:float ;
+    ns1:stem-width "1190.0"^^xsd:int .
+
+ns1:row73 ns1:cap-diameter "528.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.266"^^xsd:float ;
+    ns1:stem-width "1355.0"^^xsd:int .
+
+ns1:row74 ns1:cap-diameter "758.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.66"^^xsd:float ;
+    ns1:stem-width "1336.0"^^xsd:int .
+
+ns1:row75 ns1:cap-diameter "780.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.354"^^xsd:float ;
+    ns1:stem-width "1405.0"^^xsd:int .
+
+ns1:row76 ns1:cap-diameter "855.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.046"^^xsd:float ;
+    ns1:stem-width "1575.0"^^xsd:int .
+
+ns1:row77 ns1:cap-diameter "752.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.732"^^xsd:float ;
+    ns1:stem-width "1273.0"^^xsd:int .
+
+ns1:row78 ns1:cap-diameter "700.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.955"^^xsd:float ;
+    ns1:stem-width "1414.0"^^xsd:int .
+
+ns1:row79 ns1:cap-diameter "582.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.803"^^xsd:float ;
+    ns1:stem-width "1288.0"^^xsd:int .
+
+ns1:row8 ns1:cap-diameter "1222.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.772"^^xsd:float ;
+    ns1:stem-width "1476.0"^^xsd:int .
+
+ns1:row80 ns1:cap-diameter "693.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.863"^^xsd:float ;
+    ns1:stem-width "1245.0"^^xsd:int .
+
+ns1:row81 ns1:cap-diameter "657.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.632"^^xsd:float ;
+    ns1:stem-width "1477.0"^^xsd:int .
+
+ns1:row82 ns1:cap-diameter "645.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.517"^^xsd:float ;
+    ns1:stem-width "1301.0"^^xsd:int .
+
+ns1:row83 ns1:cap-diameter "677.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.736"^^xsd:float ;
+    ns1:stem-width "1477.0"^^xsd:int .
+
+ns1:row84 ns1:cap-diameter "722.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.672"^^xsd:float ;
+    ns1:stem-width "1331.0"^^xsd:int .
+
+ns1:row85 ns1:cap-diameter "738.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.7"^^xsd:float ;
+    ns1:stem-width "1549.0"^^xsd:int .
+
+ns1:row86 ns1:cap-diameter "566.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.545"^^xsd:float ;
+    ns1:stem-width "1353.0"^^xsd:int .
+
+ns1:row87 ns1:cap-diameter "736.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.652"^^xsd:float ;
+    ns1:stem-width "1417.0"^^xsd:int .
+
+ns1:row88 ns1:cap-diameter "614.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.843"^^xsd:float ;
+    ns1:stem-width "1468.0"^^xsd:int .
+
+ns1:row89 ns1:cap-diameter "614.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.962"^^xsd:float ;
+    ns1:stem-width "1156.0"^^xsd:int .
+
+ns1:row9 ns1:cap-diameter "1085.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "3.776"^^xsd:float ;
+    ns1:stem-width "1581.0"^^xsd:int .
+
+ns1:row90 ns1:cap-diameter "821.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.078"^^xsd:float ;
+    ns1:stem-width "1632.0"^^xsd:int .
+
+ns1:row91 ns1:cap-diameter "745.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.959"^^xsd:float ;
+    ns1:stem-width "1749.0"^^xsd:int .
+
+ns1:row92 ns1:cap-diameter "624.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.493"^^xsd:float ;
+    ns1:stem-width "1372.0"^^xsd:int .
+
+ns1:row93 ns1:cap-diameter "713.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.086"^^xsd:float ;
+    ns1:stem-width "1523.0"^^xsd:int .
+
+ns1:row94 ns1:cap-diameter "677.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.895"^^xsd:float ;
+    ns1:stem-width "1534.0"^^xsd:int .
+
+ns1:row95 ns1:cap-diameter "692.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.888"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.421"^^xsd:float ;
+    ns1:stem-width "1413.0"^^xsd:int .
+
+ns1:row96 ns1:cap-diameter "731.0"^^xsd:int ;
+    ns1:cap-shape "6.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.481"^^xsd:float ;
+    ns1:stem-width "1319.0"^^xsd:int .
+
+ns1:row97 ns1:cap-diameter "639.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "0.616"^^xsd:float ;
+    ns1:stem-width "1509.0"^^xsd:int .
+
+ns1:row98 ns1:cap-diameter "725.0"^^xsd:int ;
+    ns1:cap-shape "4.0"^^xsd:int ;
+    ns1:class "1.0"^^xsd:int ;
+    ns1:gill-attachment "2.0"^^xsd:int ;
+    ns1:gill-color "10.0"^^xsd:int ;
+    ns1:season "0.943"^^xsd:float ;
+    ns1:stem-color "11.0"^^xsd:int ;
+    ns1:stem-height "1.368"^^xsd:float ;
+    ns1:stem-width "1747.0"^^xsd:int .
+
