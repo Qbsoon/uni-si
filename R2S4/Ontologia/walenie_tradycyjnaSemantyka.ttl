@@ -1,0 +1,555 @@
+@prefix : <http://www.example.com/walenie#> .
+@prefix ex: <http://www.example.com/walenie#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.example.com/walenie#> .
+
+<http://www.example.com/walenie> rdf:type owl:Ontology ;
+                                  rdfs:comment "Klasyfikacja waleni w semantyce tradycyjnej" ;
+								  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Walenie#Tradycyjna_systematyka" ;
+                                  rdfs:label "Classificatio Cetaceorum"@la ,
+                                             "Classification of whales"@en ,
+                                             "Klasyfikacja waleni"@pl .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://www.w3.org/2000/01/rdf-schema#Description
+rdfs:Description rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.example.com/walenie#Podrzad_1
+ex:Podrzad_1 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Rzad_2 .
+
+
+###  http://www.example.com/walenie#Podrzad_2
+ex:Podrzad_2 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Rzad_2 .
+
+
+###  http://www.example.com/walenie#Podrzad_3
+ex:Podrzad_3 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Rzad_2 .
+
+
+###  http://www.example.com/walenie#Podrzad_4
+ex:Podrzad_4 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Rzad_1 .
+
+
+###  http://www.example.com/walenie#Podrzad_5
+ex:Podrzad_5 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Rzad_1 .
+
+
+###  http://www.example.com/walenie#Podrzad_6
+ex:Podrzad_6 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Rzad_1 .
+
+
+###  http://www.example.com/walenie#Rodzina_1
+ex:Rodzina_1 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_3 .
+
+
+###  http://www.example.com/walenie#Rodzina_10
+ex:Rodzina_10 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_2 .
+
+
+###  http://www.example.com/walenie#Rodzina_11
+ex:Rodzina_11 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_1 .
+
+
+###  http://www.example.com/walenie#Rodzina_12
+ex:Rodzina_12 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_1 .
+
+
+###  http://www.example.com/walenie#Rodzina_13
+ex:Rodzina_13 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_1 .
+
+
+###  http://www.example.com/walenie#Rodzina_14
+ex:Rodzina_14 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_1 .
+
+
+###  http://www.example.com/walenie#Rodzina_15
+ex:Rodzina_15 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_6 .
+
+
+###  http://www.example.com/walenie#Rodzina_16
+ex:Rodzina_16 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_6 .
+
+
+###  http://www.example.com/walenie#Rodzina_17
+ex:Rodzina_17 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_6 .
+
+
+###  http://www.example.com/walenie#Rodzina_18
+ex:Rodzina_18 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_5 .
+
+
+###  http://www.example.com/walenie#Rodzina_19
+ex:Rodzina_19 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_4 .
+
+
+###  http://www.example.com/walenie#Rodzina_2
+ex:Rodzina_2 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_3 .
+
+
+###  http://www.example.com/walenie#Rodzina_20
+ex:Rodzina_20 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_4 .
+
+
+###  http://www.example.com/walenie#Rodzina_21
+ex:Rodzina_21 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_4 .
+
+
+###  http://www.example.com/walenie#Rodzina_23
+ex:Rodzina_23 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_4 .
+
+
+###  http://www.example.com/walenie#Rodzina_24
+ex:Rodzina_24 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_4 .
+
+
+###  http://www.example.com/walenie#Rodzina_25
+ex:Rodzina_25 rdf:type owl:Class ;
+              rdfs:subClassOf ex:Podrzad_4 .
+
+
+###  http://www.example.com/walenie#Rodzina_3
+ex:Rodzina_3 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_3 .
+
+
+###  http://www.example.com/walenie#Rodzina_4
+ex:Rodzina_4 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_3 .
+
+
+###  http://www.example.com/walenie#Rodzina_5
+ex:Rodzina_5 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_3 .
+
+
+###  http://www.example.com/walenie#Rodzina_6
+ex:Rodzina_6 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_3 .
+
+
+###  http://www.example.com/walenie#Rodzina_7
+ex:Rodzina_7 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_3 .
+
+
+###  http://www.example.com/walenie#Rodzina_8
+ex:Rodzina_8 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_2 .
+
+
+###  http://www.example.com/walenie#Rodzina_9
+ex:Rodzina_9 rdf:type owl:Class ;
+             rdfs:subClassOf ex:Podrzad_2 .
+
+
+###  http://www.example.com/walenie#Rzad_1
+ex:Rzad_1 rdf:type owl:Class ;
+          rdfs:subClassOf ex:grupa_1 .
+
+
+###  http://www.example.com/walenie#Rzad_2
+ex:Rzad_2 rdf:type owl:Class ;
+          rdfs:subClassOf ex:grupa_1 .
+
+
+###  http://www.example.com/walenie#grupa_1
+ex:grupa_1 rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.example.com/walenie#Ambulocetidae
+ex:Ambulocetidae rdf:type owl:NamedIndividual ;
+                 rdfs:label "Ambulocetidae"@la .
+
+
+###  http://www.example.com/walenie#Bazylozaury
+ex:Bazylozaury rdf:type owl:NamedIndividual ;
+               rdfs:label "Bazylozaury"@pl .
+
+
+###  http://www.example.com/walenie#Delfinowate
+ex:Delfinowate rdf:type owl:NamedIndividual ;
+               rdfs:label "Delfinowate"@pl .
+
+
+###  http://www.example.com/walenie#Podrzad_1
+ex:Podrzad_1 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Podrzad_2
+ex:Podrzad_2 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Podrzad_3
+ex:Podrzad_3 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Podrzad_4
+ex:Podrzad_4 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Podrzad_5
+ex:Podrzad_5 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Podrzad_6
+ex:Podrzad_6 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_1
+ex:Rodzina_1 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_10
+ex:Rodzina_10 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_11
+ex:Rodzina_11 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_12
+ex:Rodzina_12 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_13
+ex:Rodzina_13 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_14
+ex:Rodzina_14 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_15
+ex:Rodzina_15 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_16
+ex:Rodzina_16 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_17
+ex:Rodzina_17 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_18
+ex:Rodzina_18 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_19
+ex:Rodzina_19 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_2
+ex:Rodzina_2 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_20
+ex:Rodzina_20 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_21
+ex:Rodzina_21 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_23
+ex:Rodzina_23 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_24
+ex:Rodzina_24 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_25
+ex:Rodzina_25 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_3
+ex:Rodzina_3 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_4
+ex:Rodzina_4 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_5
+ex:Rodzina_5 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_6
+ex:Rodzina_6 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_7
+ex:Rodzina_7 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_8
+ex:Rodzina_8 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rodzina_9
+ex:Rodzina_9 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rzad_1
+ex:Rzad_1 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#Rzad_2
+ex:Rzad_2 rdf:type owl:NamedIndividual .
+
+
+###  http://www.example.com/walenie#grupa_1
+ex:grupa_1 rdf:type owl:NamedIndividual .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+ex:Podrzad_1 rdfs:isDefinedBy "Grupa wielorybów, które odżywiają się przez filtrowanie pokarmu za pomocą fiszbinów, obejmuje m.in. płetwale i waleniki." ;
+             rdfs:label "Baleen whales"@en ,
+                        "Fiszbinowce"@pl ,
+                        "Mysceti"@la ;
+             rdfs:seeAlso "https://pl.wikipedia.org/wiki/Fiszbinowce" .
+
+
+ex:Podrzad_2 rdfs:isDefinedBy "Wymarła grupa pierwotnych wielorybów, które były przodkami współczesnych waleniów." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Prawalenie";
+             rdfs:label "Ancient whales"@en ,
+                        "Archaeoceti"@la ,
+                        "Prawalenie"@pl .
+
+
+ex:Podrzad_3 rdfs:isDefinedBy "Grupa waleniów charakteryzujących się obecnością zębów, do której należą kaszaloty, delfiny i morświny." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Z%C4%99bowce";
+             rdfs:label "Odontoceti"@la ,
+                        "Toothed whale"@en ,
+                        "Zębowce"@pl .
+
+
+ex:Podrzad_4 rdfs:isDefinedBy "Ssaki roślinożerne z wielokomorowym żołądkiem, które trawią pokarm poprzez fermentację w żwaczu, np. krowy i jelenie." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Prze%C5%BCuwacze";
+             rdfs:label "Przeżuwacze"@pl ,
+                        "Ruminant"@en ,
+                        "Ruminantia"@la .
+
+
+ex:Podrzad_5 rdfs:isDefinedBy "Grupa parzystokopytnych ssaków obejmująca wielbłądy i lamy, przystosowane do życia w suchych środowiskach." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Wielb%C5%82%C4%85dokszta%C5%82tne";
+             rdfs:label "Tylopoda"@la ,
+                        "Wielbłądokształtne"@pl .
+
+
+ex:Podrzad_6 rdfs:isDefinedBy "Podrząd ssaków parzystokopytnych, obejmujący świnie domowe, dziki i pekariowate." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/%C5%9Awiniokszta%C5%82tne";
+             rdfs:label "Suina"@la ,
+                        "Świniokształtne"@pl .
+
+
+ex:Rodzina_1 rdfs:isDefinedBy "Rodzina słodkowodnych delfinów występujących głównie w rzekach Ameryki Południowej, takich jak Amazonka." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Iniowate";
+             rdfs:label "Inidae"@la ,
+                        "Iniowate"@pl .
+
+
+ex:Rodzina_10 rdfs:isDefinedBy "Rodzina wymarłych wielorybów z wczesnej epoki ewolucji waleniów, charakteryzujących się specyficzną budową czaszki." ;
+			  rdfs:seeAlso "https://en.wikipedia.org/wiki/Remingtonocetidae";
+              rdfs:label "Remingtonocetidae"@la .
+
+
+ex:Rodzina_11 rdfs:isDefinedBy "Rodzina dużych wielorybów fiszbinowych, takich jak płetwal błękitny i płetwal zwyczajny." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/P%C5%82etwalowate";
+              rdfs:label "Balaenopteridae"@la ,
+                         "Płetwalowate"@pl ,
+                         "Rorqual"@en .
+
+
+ex:Rodzina_12 rdfs:isDefinedBy "Rodzina fiszbinowców, znana z gatunków takich jak humbaki, charakteryzujących się spektakularnymi akrobacjami w wodzie." ;
+			  rdfs:seeAlso "";
+              rdfs:label "Pływaczowate"@pl .
+
+
+ex:Rodzina_13 rdfs:isDefinedBy "Rodzina fiszbinowców obejmująca mniejsze gatunki wielorybów, takie jak walenik mały." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Walenikowate";
+              rdfs:label "Neobalaenidae"@la ,
+                         "Walenikowate"@pl .
+
+
+ex:Rodzina_14 rdfs:isDefinedBy "Rodzina dużych, wolno pływających fiszbinowców, do której należą wieloryby grenlandzkie." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Walowate";
+              rdfs:label "Balaenidae"@la ,
+                         "Walowate"@pl .
+
+
+ex:Rodzina_15 rdfs:isDefinedBy "Rodzina dużych, półwodnych ssaków, w tym hipopotamów i hipopotamów karłowatych." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Hipopotamowate";
+              rdfs:label "Hipopotamowate"@pl ,
+                         "Hippopotamidae"@la .
+
+
+ex:Rodzina_16 rdfs:isDefinedBy "Rodzina ssaków przypominających świnie, występujących w Ameryce Środkowej i Południowej." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Pekariowate";
+              rdfs:label "Peccaries"@en ,
+                         "Pekariowate"@pl ,
+                         "Tayassuidae"@la .
+
+
+ex:Rodzina_17 rdfs:isDefinedBy "Rodzina obejmująca różnorodne gatunki świń, dzików i ich krewnych." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/%C5%9Awiniowate";
+              rdfs:label "Suidae"@la ,
+                         "Świniowate"@pl .
+
+
+ex:Rodzina_18 rdfs:isDefinedBy "Rodzina ssaków parzystokopytnych, obejmująca wielbłądy, lamy, alpaki i ich krewnych." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Wielb%C5%82%C4%85dowate";
+              rdfs:label "Camelidae"@la ,
+                         "Wielbłądowate"@pl .
+
+
+ex:Rodzina_19 rdfs:isDefinedBy "Rodzina ssaków obejmująca jelenie, łosie, sarny i karibu." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Jeleniowate";
+              rdfs:label "Cervidae"@la ,
+                         "Jeleniowate"@pl ,
+                         "True deers"@en .
+
+
+ex:Rodzina_2 rdfs:isDefinedBy "Rodzina waleniów z podrzędu zębowców, obejmująca kaszaloty, które są znane z dużych rozmiarów oraz zdolności do głębokiego nurkowania." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Kaszalotowate";
+             rdfs:label "Kaszalotowate"@pl ,
+                        "Physeteroidea"@la .
+
+
+ex:Rodzina_20 rdfs:isDefinedBy "Rodzina ssaków parzystokopytnych obejmująca kanczyle, małe roślinożerne ssaki tropikalne." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Kanczylowate";
+              rdfs:label "Chevrotain"@en ,
+                         "Kanczylowate"@pl ,
+                         "Tragulidae"@la .
+
+
+ex:Rodzina_21 rdfs:isDefinedBy "Rodzina ssaków parzystokopytnych obejmująca piżmowce, znane z produkcji piżma." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Pi%C5%BCmowcowate";
+              rdfs:label "Moschidae"@la ,
+                         "Piżmowcowate"@pl .
+
+
+ex:Rodzina_23 rdfs:isDefinedBy "Rodzina ssaków parzystokopytnych obejmująca widłorogi, charakterystyczne dla Ameryki Północnej." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Wid%C5%82orogowate";
+              rdfs:label "Antilocapridae"@la ,
+                         "Widłorogowate"@pl .
+
+
+ex:Rodzina_24 rdfs:isDefinedBy "Rodzina ssaków obejmująca różnorodne gatunki, takie jak bydło, owce, kozy i antylopy." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Wo%C5%82owate";
+              rdfs:label "Bovidae"@la ,
+                         "Wołowate"@pl .
+
+
+ex:Rodzina_25 rdfs:isDefinedBy "Rodzina ssaków obejmująca żyrafy i okapi, charakteryzująca się długimi szyjami i smukłą budową." ;
+			  rdfs:seeAlso "https://pl.wikipedia.org/wiki/%C5%BByrafowate";
+              rdfs:label "Giraffidae"@la ,
+                         "Żyrafowate"@pl .
+
+
+ex:Rodzina_3 rdfs:isDefinedBy "Rodzina waleniów z podrzędu zębowców, obejmująca małe kaszaloty karłowate." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Kogiowate";
+             rdfs:label "Kogiidae"@la ,
+                        "Kogiowate"@pl .
+
+
+ex:Rodzina_4 rdfs:isDefinedBy "Rodzina małych waleniów zębowych, takich jak morświny, charakteryzujących się krótkim pyskiem." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Mor%C5%9Bwinowate";
+             rdfs:label "Morświnowate"@pl ,
+                        "Phocoenidae"@la ,
+                        "Porpoise"@en .
+
+
+ex:Rodzina_5 rdfs:isDefinedBy "Rodzina waleniów obejmująca narwale i białuchy, charakteryzujące się arktycznym środowiskiem życia." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Narwalowate";
+             rdfs:label "Monodontidae"@la ,
+                        "Narwalowate"@pl .
+
+
+ex:Rodzina_6 rdfs:isDefinedBy "Rodzina delfinów słodkowodnych, występujących w rzekach Azji, takich jak Ganges." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Suzowate";
+             rdfs:label "Platanistidae"@la ,
+                        "Suzowate"@pl .
+
+
+ex:Rodzina_7 rdfs:isDefinedBy "Rodzina waleniów zębowych obejmująca gatunki o charakterystycznym dziobowatym kształcie pyska." ;
+			 rdfs:seeAlso "https://pl.wikipedia.org/wiki/Zyfiowate";
+             rdfs:label "Beaked whale"@en ,
+                        "Ziphiidae"@la ,
+                        "Zyfiowate"@pl .
+
+
+ex:Rodzina_8 rdfs:isDefinedBy "Wymarła rodzina ssaków, uznawana za jednych z najwcześniejszych przodków współczesnych waleniów." ;
+			 rdfs:seeAlso "https://en.wikipedia.org/wiki/Pakicetidae";
+             rdfs:label "Pakicetidae"@la .
+
+
+ex:Rodzina_9 rdfs:isDefinedBy "Rodzina wymarłych waleniów, które zamieszkiwały zarówno środowiska wodne, jak i lądowe." ;
+			 rdfs:seeAlso "https://en.wikipedia.org/wiki/Protocetidae";
+             rdfs:label "Protocetidae"@la ,
+                        "Protocetids"@en .
+
+
+ex:Rzad_1 rdfs:isDefinedBy "Rząd ssaków parzystokopytnych, charakteryzujących się symetrycznym układem palców w kończynach, obejmujący przeżuwacze i świniokształtne." ;
+		  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Parzystokopytne";
+          rdfs:label "Artiodactyl"@en ,
+                     "Artiodactyla"@la ,
+                     "Parzystokopytne"@pl .
+
+
+ex:Rzad_2 rdfs:isDefinedBy "Rząd ssaków wodnych obejmujący fiszbinowce i zębowce, przystosowanych do życia w środowisku wodnym." ;
+		  rdfs:seeAlso "https://pl.wikipedia.org/wiki/Walenie";
+          rdfs:label "Cetacea"@la ,
+                     "Walenie"@pl .
+
+
+ex:grupa_1 rdfs:isDefinedBy "Grupa ssaków obejmująca zwierzęta kopytne, takie jak konie, woły, jelenie i wielbłądy." ;
+		   rdfs:seeAlso "https://pl.wikipedia.org/wiki/Kopytne";
+           rdfs:label "Kopytne"@pl ,
+                      "Ungulata"@la ,
+                      "Ungulates"@en .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
