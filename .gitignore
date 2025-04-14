@@ -5,3 +5,6 @@ R2S3/.vscode/
 R2S3/sieci_neuronowe/perceptron/SpeechDataset/
 R2S3/sieci_neuronowe/perceptron/models/
 *.npy
+R2S4/MLP/Hot_1/aclImdb/
+R2S4/MLP/Hot_1/glove/
+R2S4/MLP/Hot_1/pre_trained_glove_model.weights.h5
