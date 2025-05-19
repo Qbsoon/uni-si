@@ -7,4 +7,8 @@ R2S3/sieci_neuronowe/perceptron/models/
 *.npy
 R2S4/MLP/Hot_1/aclImdb/
 R2S4/MLP/Hot_1/glove/
-R2S4/MLP/Hot_1/pre_trained_glove_model.weights.h5
+*.h5
+*.keras
+R2S4/DNN/train/
+R2S4/DNN/test1/
+R2S4/DNN/datasets/
