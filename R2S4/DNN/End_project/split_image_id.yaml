@@ -1,0 +1,6 @@
+path: .
+train: images/train_v2_yolo2
+val: images/valid_v2_yolo2
+names:
+  0: image
+  1: id

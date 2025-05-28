@@ -1,5 +1,5 @@
 path: .
 train: images/train
-val: images/test
+val: images/valid
 names:
   0: person_entry

@@ -13,3 +13,6 @@ R2S4/DNN/train/
 R2S4/DNN/test1/
 R2S4/DNN/datasets/
 *.pt
+R2S4/DNN/End_project/images/
+R2S4/DNN/End_project/labels/
+R2S4/DNN/End_project/runs/
