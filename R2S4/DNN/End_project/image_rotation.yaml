@@ -7,3 +7,5 @@ names:
   0: "rotated_photo"
 
 kpt_shape: [4, 3]
+
+flip_idx: [1, 0, 3, 2]
