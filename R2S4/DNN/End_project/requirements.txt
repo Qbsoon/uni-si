@@ -1,0 +1,6 @@
+numpy==2.0.2
+easyocr==1.7.2
+PyQt6==6.9.0
+ultralytics==8.3.144
+tqdm==4.67.1
+pandas==2.2.3
