@@ -1,0 +1,4 @@
+spacy==3.8.7
+tensorflow==2.18.0
+PyQt6==6.9.0
+nltk==3.9.1
